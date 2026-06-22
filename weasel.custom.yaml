@@ -152,13 +152,30 @@ patch:
     hilited_comment_text_color: 0xA59682
     hilited_candidate_text_color: 0xFAF2E8
     hilited_candidate_back_color: 0x504538CC
+  "preset_color_schemes/apple-dark-pink":
+    author: rawSalm0n
+    name: "Apple Dark Pink"
+    color_format: rgba
+    back_color: 0x1E2227D9
+    border_color: 0xFFFFFF2B
+    shadow_color: 0x00000073
+    text_color: 0xE6EBF1
+    candidate_text_color: 0xE6EBF1
+    label_color: 0x8A929C
+    comment_text_color: 0x7A838E
+    hilited_text_color: 0xF2F6FB
+    hilited_back_color: 0x2A303799
+    hilited_label_color: 0xFFFFFF
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_back_color: 0xF24F9ECC
   "style/color_scheme": "apple-light-pink"
-  "style/color_scheme_dark": "apple-mist-dark-lilac"
+  "style/color_scheme_dark": "apple-dark-pink"
   "style/font_face": "SF Pro Text, PingFang SC, Microsoft YaHei UI, Segoe UI Emoji"
   "style/label_font_face": "Microsoft YaHei UI"
   "style/comment_font_face": "Microsoft YaHei UI"
   "style/font_point": 10
-  "style/label_font_point": 10
+  "style/label_font_point": 8
   "style/comment_font_point": 8
   "style/layout/border_width": 1
   "style/layout/margin_x": 14
